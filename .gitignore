@@ -8,3 +8,5 @@ sinopia-*.tgz
 bin/**
 !bin/sinopia
 test-storage*
+
+.zedstate
